@@ -15,11 +15,31 @@ Currently expanding my knowledge into **AI, GenAI, and backend architecture** to
 
 ### ✅ What I Know (as of now)
 
-- 📱 **Android Development** using Kotlin & Java 
-- 🌐 **MERN Stack**: MongoDB, Express, React, Node.js
+- 📱 **Android Development** using Kotlin & Java (Native, MVVM)
+- 🌐 **MERN Stack**: MongoDB, Express.js, React.js, Node.js
 - 🔥 **Firebase**: Auth, Firestore, Realtime DB, Push Notifications
 - 📡 **Networking**: REST APIs, Retrofit, JSON parsing
-- ⚙️ Git, GitHub, Postman, VS Code, Android Studio
+- ⚙️ Tools: Git, GitHub, Postman, VS Code, Android Studio
+
+---
+
+### 💻 Programming Languages
+
+- `Java` – Android app development, OOP fundamentals  
+- `Kotlin` – Primary language for Android  
+- `JavaScript` – Web development with React  
+- `Python` – DSA, AI/ML, scripting, and backend development  
+
+---
+
+### 🧰 Frameworks, Libraries & Tools
+
+- **Frontend**: React.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js, FastAPI (learning)  
+- **Mobile**: Android Native (Kotlin/Java), Flutter (learning)  
+- **Databases**: MongoDB, Firebase, PostgreSQL (learning)  
+- **AI/ML**: NumPy, Pandas, Sentence Transformers  
+- **Others**: Git, GitHub, Postman, Android Studio, VS Code  
 
 ---
 
@@ -51,16 +71,30 @@ Currently expanding my knowledge into **AI, GenAI, and backend architecture** to
 - ✅ Become a **Full-Stack GenAI + AI Engineer**
 - 🧠 Build emotional GenAI tools that feel human
 - 🧱 Master system architecture & CPU/Memory internals
+- 🌐 Launch an app for **1L+ users**, blending AI + psychology
+- 🇮🇹 Grow while studying in Italy and exploring life
 
 ---
 
-### 💻 Tech Stack
+### 📈 GitHub Stats
 
-```yaml
-Languages:     Kotlin, Java, JavaScript, Python
-Frontend:      React.js, Tailwind CSS
-Mobile:        Android Native (No Jetpack), Flutter (learning)
-Backend:       Node.js, Express.js, FastAPI (learning)
-Databases:     MongoDB, Firebase, PostgreSQL (learning)
-AI/ML:         NumPy, Pandas, Sentence Transformers
-Tools:         Git, GitHub, Postman, VS Code, Android Studio
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshxframe&show_icons=true&theme=radical" alt="stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshxframe&theme=radical" alt="streak" width="430"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💬 DM me for collaboration or dev talk  
+- 📩 Email: `harshxframe@gmail.com`  
+- 🌐 [LinkedIn Coming Soon]
+
+---
+
+### 🧠 Motto
+
+> **"Code. Create. Conquer. Build for Impact."**
+
+---
