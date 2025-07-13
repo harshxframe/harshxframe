@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Harsh Verma</h1>
-<h3 align="center">Android | MERN Stack | Firebase | Networking | Future GenAI Engineer ⚙️</h3>
+<h3 align="center">Android Dev | MERN Stack | Networking | Future Full Stack AI/ML Engineer ⚙️</h3>
 
 ---
 
@@ -15,7 +15,7 @@ Currently expanding my knowledge into **AI, GenAI, and backend architecture** to
 
 ### ✅ What I Know (as of now)
 
-- 📱 **Android Development** using Kotlin & Java (without Jetpack)
+- 📱 **Android Development** using Kotlin & Java 
 - 🌐 **MERN Stack**: MongoDB, Express, React, Node.js
 - 🔥 **Firebase**: Auth, Firestore, Realtime DB, Push Notifications
 - 📡 **Networking**: REST APIs, Retrofit, JSON parsing
@@ -51,9 +51,6 @@ Currently expanding my knowledge into **AI, GenAI, and backend architecture** to
 - ✅ Become a **Full-Stack GenAI + AI Engineer**
 - 🧠 Build emotional GenAI tools that feel human
 - 🧱 Master system architecture & CPU/Memory internals
-- 🌐 Launch a product used by **1 Lakh+ users**
-- 🇮🇹 Study AI + Psychology in Italy, and balance life + deep tech
-- 💸 Build a **$500B+ company** and donate from day 1
 
 ---
 
