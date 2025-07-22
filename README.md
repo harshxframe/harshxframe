@@ -44,7 +44,7 @@ Hey! I'm **Harsh Verma**, an Android + Web developer with strong MERN skills and
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Gemini-Clone-AI](https://github.com/harshxframe/Gemini-Clone-AI) | AI chat clone with sleek UI | JavaScript |
+| [Gemini-Clone-AI](https://github.com/harshxframe/Gemini-Clone-Al) | AI chat clone with sleek UI | JavaScript |
 | [Galactic AI Physics](https://github.com/harshxframe/Galactic_AI_powered_Physics_app) | Ask AI-powered doubts about physics | Kotlin |
 | [MetLife Dating App](https://github.com/harshxframe/MetLife-Dating_app) | Match, chat, like & connect 💘 | Kotlin |
 | [BookMart](https://github.com/harshxframe/BookMart--Old-book-selling) | Sell/discover books | Kotlin |
@@ -65,8 +65,8 @@ Hey! I'm **Harsh Verma**, an Android + Web developer with strong MERN skills and
 ### 📫 Let's Connect
 
 - 💬 DM me for collaboration or dev talk  
-- 📩 Email: `harshxframe@gmail.com`  
-- 🌐 [LinkedIn Coming Soon]
+- 📩 Email: `macxharsh@gmail.com`  
+- 🌐 LinkedIn: `https://www.linkedin.com/in/harsh-verma-157428288/`
 
 ---
 
