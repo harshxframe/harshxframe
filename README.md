@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Harsh Verma</h1>
-<h3 align="center">Android Dev | MERN Stack | React Native & Expo | Generative AI | Full Stack Engineer ⚙️</h3>
+<h3 align="center">Android Dev | MERN Stack | React Native & Expo | Generative AI | ⚙️ </h3>
 
 ---
 
