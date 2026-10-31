@@ -31,5 +31,4 @@ Building [Korexbase](https://www.korexbase.com), AI infrastructure for mobile de
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-CUSTOM-URL
-- Email: harshxv@proton.me
+- Email: harsh@korexbase.com
